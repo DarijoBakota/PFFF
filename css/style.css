@@ -1,0 +1,14 @@
+.alto110 {
+    height:110px;
+    max-height:110px;
+    
+}
+
+.parrafo {
+    font-size:4vw;
+    padding-top:6vh;
+    padding-left:3em;;
+    max-width:40%;
+    text-shadow: 0.075em 0.08em 0.1em #FFF;
+    font-weight: 600;
+}
